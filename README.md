@@ -1,7 +1,7 @@
 # Sales Customer Analytics
 
 ## Overview
-This project analyzes retail sales data using Python, SQL, and visualization tools.
+This project focuses on analyzing retail sales data using Python, SQL, visualization, and machine learning techniques.
 
 ## Tools Used
 - Python
@@ -9,20 +9,27 @@ This project analyzes retail sales data using Python, SQL, and visualization too
 - Matplotlib
 - SQL
 - Scikit-learn
+- Jupyter Notebook
 
 ## Workflow
 1. Data Exploration
 2. Data Cleaning
-3. Visualization
-4. SQL Analysis
-5. Sales Prediction
+3. Data Visualization
+4. SQL Business Analysis
+5. Sales Prediction using Linear Regression
 
 ## Key Insights
-- Western region had highest sales
-- Technology category performed strongly
-- Sales trends varied monthly
+- Western region generated highest sales
+- Technology category contributed major revenue
+- Monthly sales showed changing demand patterns
+- Most transactions were smaller purchases
+
+## Business Recommendations
+- Increase marketing in weaker regions
+- Focus on high-performing technology products
+- Improve inventory planning using sales trends
 
 ## Future Improvements
-- Interactive dashboard
-- Better ML models
-- Advanced forecasting
+- Interactive dashboards
+- Advanced forecasting models
+- Customer segmentation analysis
